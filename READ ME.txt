@@ -1,0 +1,4 @@
+This flask service works with sqlite to save the user credentials, and log messages as well.
+I dont have a personal AWS account, so I used local sqlite instead (though i could use sql docker as well).
+
+attached Diagram.png
